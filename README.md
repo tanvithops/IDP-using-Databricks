@@ -1,6 +1,6 @@
 # Intelligent Document Processing (IDP) on Databricks
 
-An end-to-end pipeline that turns a folder of unstructured PDF documents (invoices, purchase orders, and receipts) into clean, queryable, governed tables — entirely in Databricks SQL, using Unity Catalog and Databricks' built-in AI functions.
+An end-to-end pipeline that turns a folder of unstructured PDF documents (invoices, purchase orders, and receipts) into clean, queryable, governed tables, entirely in Databricks SQL, using Unity Catalog and Databricks' built-in AI functions.
 
 No custom ML models, no training, no external services. Just SQL.
 

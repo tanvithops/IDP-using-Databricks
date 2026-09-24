@@ -15,7 +15,7 @@ Point it at a volume full of mixed PDFs and it will:
 3. **Extract** the fields relevant to each document type.
 4. **Flatten** the results into clean columns and save them as governed Unity Catalog tables.
 
-The result is three tidy tables — `idp.finance.invoices`, `idp.finance.purchase_order`, and `idp.finance.receipt` — that anyone with the right permissions can query directly.
+The result is three tidy tables : `idp.finance.invoices`, `idp.finance.purchase_order`, and `idp.finance.receipt` : that anyone with the right permissions can query directly.
 
 ---
 
